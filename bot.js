@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@Minerser
+Minerser
 /
-RICHUSER_B1
+minerser
 Public
-forked from richusir/RICHUSER_B1
+forked from richusir/Minerser
 0
 1121
 Code
