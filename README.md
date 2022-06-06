@@ -20,7 +20,7 @@ PLEASE NOTE USING BGM IT WILL AUTOMATICALLY BAN YOUR HEROKU ACCOUNT
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Minerser/Amalser_v1)
      </div>
@@ -28,7 +28,7 @@ PLEASE NOTE USING BGM IT WILL AUTOMATICALLY BAN YOUR HEROKU ACCOUNT
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-bash <(curl -L https://t.ly/tHxh)
+bash <(SORRY MINER_sER DIDINT PROVIDED THIS ONE)
 ``` 
   
 ### Its_me_Minerser
@@ -36,10 +36,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Hey using Miner_ser bgm bot your whatsapp number may be banned so take the responsiblity to usethis bot
 ```
 
 ## Developers
