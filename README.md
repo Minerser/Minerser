@@ -9,7 +9,7 @@
 PLEASE NOTE USING BGM IT WILL AUTOMATICALLY BAN YOUR HEROKU ACCOUNT
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BxZErVpcpvhDObdWF3CIGZ) 
+  [![join]()](https://chat.whatsapp.com/BxZErVpcpvhDObdWF3CIGZ) 
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
