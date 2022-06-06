@@ -6,7 +6,7 @@
   <img src=miner.jpg>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+PLEASE NOTE USING BGM IT WILL AUTOMATICALLY BAN YOUR HEROKU ACCOUNT
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BxZErVpcpvhDObdWF3CIGZ) 
